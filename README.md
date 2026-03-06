@@ -1,84 +1,102 @@
+<h1 align="center">Hi 👋, I'm Basavaraj Mang</h1>
+
+<h3 align="center">
+Java Backend Developer • Spring Boot • Microservices
+</h3>
+
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:1f4037,50:99f2c8,100:00c9ff&text=Basavaraj%20Mang&fontSize=65&fontAlignY=40&fontColor=ffffff&animation=fadeIn"/>
+I build <b>scalable backend systems</b> and <b>production-ready APIs</b> using the Java ecosystem.
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&color=00C9FF&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+Engineer;Microservices+Architecture;Building+Scalable+Backend+Systems"/>
-</p>
-
-<h3 align="center">Backend Developer • Java • Spring Boot • Microservices</h3>
-
-<p align="center">
-I design and build <b>scalable backend systems</b> using the Java ecosystem.  
-My focus is on <b>clean architecture, secure APIs, and distributed system design.</b>
-</p>
-
----
-
-# 👨‍💻 About Me
-
-• Backend engineer passionate about **Java & Spring Boot**
-• Focused on **API development and system design**
-• Interested in **distributed systems and microservices**
-• Always improving **backend performance & scalability**
-• Building real-world backend projects
-
----
-
-# 🧰 Technology Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,mysql,redis,docker,git,linux,postman,aws&perline=6"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Java+Backend+Developer;Spring+Boot+Engineer;Microservices+Architecture;Clean+Code+Advocate"/>
 </p>
 
 ---
 
-# 🚀 Key Projects
+## 👨‍💻 About Me
 
-## Digital Wallet System
+* Backend Developer specializing in **Java & Spring Boot**
+* Passionate about **Microservices Architecture**
+* Interested in **System Design & Scalable APIs**
+* Focused on writing **clean and maintainable code**
+* Goal: Become a **high-level backend architect**
 
-A backend system that handles **secure wallet payments and transactions**.
+---
 
-Features
+## 🛠 Tech Stack
 
-• JWT Authentication
-• Secure wallet balance management
-• QR payment integration using ZXing
-• Transaction history APIs
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java" />
+<img src="https://skillicons.dev/icons?i=spring" />
+<img src="https://skillicons.dev/icons?i=hibernate" />
+<img src="https://skillicons.dev/icons?i=maven" />
+<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=redis" />
+<img src="https://skillicons.dev/icons?i=docker" />
+<img src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=linux" />
+<img src="https://skillicons.dev/icons?i=postman" />
+
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 💳 Digital Wallet System
+
+Secure backend system for digital payments.
+
+**Features**
+
+* JWT authentication
+* ACID-compliant wallet transactions
+* QR payments using ZXing
+* Transaction history APIs
 
 Repository
 https://github.com/Basava-Raj/Digital_Wallet
 
 ---
 
-## E-Commerce Microservices Platform
+### 🛒 E-Commerce Microservices Platform
 
-Distributed backend architecture using **Spring Cloud**.
+Distributed e-commerce backend architecture.
 
-Architecture
+**Architecture**
 
-• Service Discovery — Netflix Eureka
-• API Gateway — Spring Cloud Gateway
-• Fault Tolerance — Resilience4j
-• Distributed Tracing — Zipkin
+* Service Discovery → Netflix Eureka
+* API Gateway → Spring Cloud Gateway
+* Fault Tolerance → Resilience4j
+* Distributed Tracing → Zipkin
 
 Repository
 https://github.com/Basava-Raj/ecommerce-microservices
 
 ---
 
-# 🧠 Engineering Approach
+## 📊 GitHub Activity
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Basava-Raj&theme=github-dark&hide_border=true"/>
+</p>
+
+---
+
+## 🧠 Engineering Principles
 
 ```
-Clean Code
-Secure APIs
-Scalable Systems
-Reliable Microservices
+Write Clean Code
+Build Secure APIs
+Design Scalable Systems
+Solve Real Problems
 ```
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
 
@@ -95,9 +113,5 @@ Reliable Microservices
 ---
 
 <p align="center">
-Building scalable backend systems with Java ⚡
-</p>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:1f4037,50:99f2c8,100:00c9ff&section=footer"/>
+⭐ Building scalable backend systems with Java
 </p>
